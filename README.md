@@ -1,5 +1,5 @@
 # sohammaji
-# [⚡Soham Maji⚡]
+# 🔥 Soham Maji 🔥
 *WordPress Developer || CSE student || Tech Enthusiast || Open to Learn*
 
 <p align="left">
@@ -24,10 +24,10 @@
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
-- 💬 Ask me about *Web Development, Stock Market, Graphic Design, Coding.*
+- 💬 Interested in *Web Development, Python Language, Graphic Design, Coding.*
 - 📫 How to reach me: <a href="mailto:sohammaji10@gmail.com">sohammaji10@gmail.com</a>
 - 📄 Know about my experiences, my *Resume*: [here](<link here>)
-- ⚡ Fun fact: I am an *Artist*
+- ⚡ Fun fact: Sometimes I may deliver the most 🌟Creative Ideas🌟 ever.
 <br>
 
 *🛠 Skills and Tools:* \
