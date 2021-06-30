@@ -4,16 +4,16 @@
 
 <p align="left">
 
-<a href="mailto:sohammaji10@gmail.com" style="text-decoration:none">
+<a href="mailto:sohammaji10@gmail.com" target="_blank" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/soham-maji" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/soham-maji" target="_blank" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/sohammaji" style="text-decoration:none">
+<a href="https://github.com/sohammaji" target="_blank" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/soham_maji/" style="text-decoration:none">
+<a href="https://www.instagram.com/soham_maji/" target="_blank" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <br />
