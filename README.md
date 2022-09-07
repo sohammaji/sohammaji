@@ -30,7 +30,7 @@
 
 - 🔭 I’m currently working on my Portfolio
 - 👯 I'm looking to collaborate on Open source project
-- 💬 Interested in *Web Development, Python Language, Graphic Design, Coding.*
+- 💬 Interested in *Python Language, Data Analysis, Machine Learning, Deep Learning, Coding.*
 - 📫 How to reach me: <a href="mailto:sohammaji10@gmail.com">sohammaji10@gmail.com</a>
 - 📄 Know about my experiences, my *Resume*: [here](<https://linkedin.com/in/soham-maji>)
 - ⚡ Fun fact: Sometimes I may deliver the most 🌟Creative Ideas🌟 ever.
